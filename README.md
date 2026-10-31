@@ -32,80 +32,31 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Corporate Social Responsibility (CSR) and corporate philanthropy software market is estimated at approximately **$1.1 billion to $1.2 billion** (projected to reach over $3.0 billion by the 2030s at ~10% CAGR). The market structure is **moderately fragmented with a concentrated core of market leaders**—anchored by dominant enterprise platforms like Blackbaud, Bonterra, and Benevity who command the highest enterprise market share and regulatory vetting ecosystems, followed by a fragmented tier of specialized point solutions for volunteering, matching, and regional ESG reporting.
 
 ## SaaS/Hosted Platforms
 
+| Platform | Company Size (Valuation / Revenue) | Starting Pricing Tier | Free Tier / Trial Limits | Key Features & Focus | Best For & Trade-offs |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[YourCause (Blackbaud)](https://www.yourcause.com/)** | **~$2.5B–$2.6B** MCap / **~$1.15B** ARR (NASDAQ: BLKB) | Starting tier from **$10,000/year** (or $5,000/yr + $99/user modular base depending on deployment) | **No free tier or trial** (Requires sales-led custom demo; Blackbaud Verified Network / NPOconnect profile is free for registered charities only) | Workplace giving, matching gifts (CSRconnect), and corporate grants management (GrantsConnect) | **Best for**: Mid-to-large enterprises seeking modular, proven CSR workflows.<br>**Trade-off**: High entry pricing; complex setup. |
+| **[CyberGrants (Bonterra)](https://www.bonterra.com/)** | **~$1B+** PE Backing / **~$200M–$300M+** ARR (Apax Partners) | Enterprise quote-based starting at **$12,000/year** baseline platform contract | **No free tier or trial** (No self-serve or trial access; enterprise onboarding and sales demonstration only) | Enterprise corporate grantmaking, disaster relief funds, employee giving, and volunteer tracking | **Best for**: Large enterprises and corporate foundations needing structured grant approval workflows.<br>**Trade-off**: Requires dedicated implementation and onboarding. |
+| **[Deed](https://www.joindeed.com/)** | **Part of Bonterra** (~$1B+ parent); raised **$12.1M** pre-acquisition | Enterprise tier starting at **$10,000/year** baseline platform license fee | **No free tier or trial** (Sales demo only; standard 3rd-party processing fees apply: PayPal 2.2% + $0.30; GlobalGiving 5%) | Modern employee giving, volunteer opportunity discovery, gamified campaigns, Slack integration | **Best for**: Modern, remote/hybrid workforces wanting consumer-grade mobile CSR apps.<br>**Trade-off**: Processing fees vary by payment partner. |
+| **[Benevity](https://www.benevity.com/)** | **~$1.1B** Valuation (Hg PE) / **~$130M–$188M** ARR | Starting from **$32,844/year** baseline (median contract ~$49,056/year across enterprise buyers) | **No free tier or trial** (Strictly sales-led enterprise deployment; no free trials or self-serve freemium access) | Corporate purpose software, global donation disbursement (150+ countries), volunteering, and Spark CSR engine | **Best for**: Global enterprises needing unified giving with deep nonprofit vetting.<br>**Trade-off**: Highest starting price tag; strict enterprise contracts. |
+| **[Submittable](https://www.submittable.com/)** | **~$500M–$1B** Valuation / **~$35M–$50M+** ARR ($74.6M funding) | Basic tier starting at **$3,000/year** (median CSR/grants buyer pays ~$14,462/year) | **No free trial** (Sales demo evaluation only; paid contract tiers limit monthly/annual submission counts, though paid fee applications do not consume limits) | Grants lifecycle management, awards workflow automation, and CSR module (Bright Funds) | **Best for**: Organizations managing structured grant applications and corporate philanthropy together.<br>**Trade-off**: Contract prices scale with volume caps. |
+| **[Bright Funds (Submittable)](https://www.brightfunds.org/)** | **Part of Submittable** (~$500M–$1B parent valuation) | Modular tier starting at **$3,000/year** (bundled CSR deployment median ~$14,462/year) | **14-day free trial** available upon sales qualification (Limited to test employee portal and nonprofit catalog sandbox) | Workplace donation matching, payroll giving, volunteer event coordination, and curated charity database | **Best for**: Fast-growing companies seeking straightforward employee donation matching.<br>**Trade-off**: Pricing opacity; variable payment processing fees. |
+| **[Goodera](https://www.goodera.com/)** | **~$10M–$15M** ARR ($10M Series A, backed by Zoom Ventures) | Starting tier from **$5.00/user/month** (annual billing, minimum seat commitments apply) | **No free tier** (Offers a **1-event or 14-day sandbox trial** on select corporate demo inquiries) | Turnkey virtual, in-person, and hybrid corporate volunteering events across 100+ countries | **Best for**: Companies seeking turnkey, hosted team-building volunteering experiences.<br>**Trade-off**: Per-event or per-seat costs scale rapidly with large teams. |
+| **[Millie](https://www.milliegiving.com/)** | **~$1.1M** ARR (Seed-stage backed, 25–30 employees) | Starter plan starting at **$95/month** (annual commitment; plus 5% operational transaction fee on donations) | **No free tier or trial** (Guided product demonstration only; contracts capped by active employee count) | Agile workplace giving, corporate matching, charitable gift cards, and gamified campaigns | **Best for**: Small-to-mid-market companies wanting accessible, easy-to-launch CSR tools.<br>**Trade-off**: 5% transaction cut on donation flows. |
+| **[GivingForce](https://www.givingforce.com/)** | Private SME (~10–50 employees, UK Companies House registered) | Bespoke modular license starting at **£5,000/year** (~$6,500/year) | **No free tier or trial** (Platform demonstration only; requires custom enterprise portal provisioning) | UK/EU HMRC-recognized payroll giving, corporate gift matching, volunteering portal, grant management | **Best for**: UK/European enterprises prioritizing HMRC payroll giving compliance.<br>**Trade-off**: Niche focus on UK/European corporate giving standards. |
 
-
-- **[Benevity](https://www.benevity.com/)**
-
-  **Corporate purpose software** with workplace giving, volunteering, and grant management. **Pricing**: **Grow plan** listed as **Free** (per user per month, all-in-one giving/volunteering, nonprofit network, matching, reporting); **Scale** and **Boost** plans quote-only with payroll giving, challenges, and API access . **Free tier**: Grow plan listed as free (verify scope with vendor). **Best for**: organizations wanting an all-in-one CSR platform with a global nonprofit network—**trade-off**: advanced features and API access require paid tiers.
-
-
-
-- **[CyberGrants (Bonterra)](https://www.bonterra.com/)**
-
-  **Corporate grantmaking and employee giving** platform (formerly CyberGrants, now Bonterra Grants Management). **Pricing**: **Starting at $1.00/year flat rate** per third-party listings; actual enterprise pricing quote-only . **Free tier**: Free trial available; no perpetual free tier. **Best for**: corporations and foundations needing structured grantmaking workflows—**trade-off**: enterprise pricing; implementation required.
-
-
-
-- **[YourCause (Blackbaud)](https://www.yourcause.com/)**
-
-  **CSR platform** with CSRconnect (employee engagement) and GrantsConnect (corporate grantmaking). **Pricing**: **Flexible, pay-for-what-you-use** model; third-party listings show starting at **$5,000/year** and **$99/user** . **Free tier**: No free version; free trial available. **Best for**: SMBs to enterprises wanting modular CSR features—**trade-off**: pricing scales with feature selection.
-
-
-
-- **[Bright Funds (Submittable)](https://www.brightfunds.org/)**
-
-  **Workplace giving and volunteer management** (now "Bright Funds by Submittable"). **Pricing**: No published pricing; **Submittable median buyer pays ~$14,462/year** (range $5,675–$31,175) per Vendr data . **Free tier**: No free version; **free trial available** . **Best for**: companies wanting employee giving and matching with a curated nonprofit database—**trade-off**: no transparent pricing; users report difficulty finding welcome credits .
-
-
-
-- **[Submittable](https://www.submittable.com/)**
-
-  **Grants and application management** platform with CSR module (Bright Funds). **Pricing**: **Median buyer pays ~$14,462/year**; custom pricing via sales. **Free tier**: No free version. **Best for**: organizations managing grant programs and employee giving in one platform—**trade-off**: users report annual price increases without commensurate roadmap updates .
-
-
-
-- **[Goodera](https://www.goodera.com/)**
-
-  **Employee volunteering platform** with global nonprofit partnerships. **Pricing**: **Starting at $5.00/month** per third-party listings; quote-based model . **Free tier**: Free trial available; no perpetual free tier. **Best for**: companies wanting turnkey volunteer events and tracking—**trade-off**: limited public pricing transparency.
-
-
-
-- **[GivingForce](https://www.givingforce.com/)**
-
-  **Workplace giving and volunteering** enterprise software with payroll giving, matched fundraising, and volunteering modules. **Pricing**: **Annual subscription, volume/usage-based**; R&D investment $500K–$1M . **Free tier**: Not specified. **Best for**: enterprises needing customizable CSR portals with payroll giving—**trade-off**: enterprise-focused; no self-serve pricing.
-
-
-
-- **[Deed](https://www.joindeed.com/)**
-
-  **Employee giving and volunteering** platform with donation matching and nonprofit discovery. **Pricing**: Quote-only; platform fee plus processing. **Free tier**: Not specified. **Best for**: companies wanting modern employee engagement with donation matching—**trade-off**: processing fees vary by partner (PayPal 2.2% + $0.30 US; GlobalGiving/Network for Good 5%) .
-
-
-
-- **[Millie](https://www.milliegiving.com/)**
-
-  **Workplace giving and volunteering** platform with grant management. **Pricing**: **Custom annual quote** based on employee count and selected programs; no public list pricing. **Free tier**: No free tier mentioned; demo/quote process. **Best for**: companies wanting customizable giving, matching, and volunteering with dedicated support—**trade-off**: quote-only; requires sales engagement.
-
-
-
-- **[Atlassian Foundation](https://www.atlassianfoundation.org/)** (**Not a vendor**)
-
-  **Corporate foundation** contributing 1% of equity, profit, tools, and employee time. Impact: **$85M+ donated**, **318,000+ employee volunteer hours**, **9,800+ nonprofits** using free/discounted Atlassian apps, **19,000+ organizations** in Pledge 1% . **Note**: This is Atlassian's own philanthropy program, not a software product available to other companies. **Best for**: reference model for corporate giving program design—not a purchasable platform.
-
-
-
+*(Note: **[Atlassian Foundation](https://www.atlassianfoundation.org/)** is Atlassian's own internal corporate philanthropy and Pledge 1% initiative, not a commercial SaaS product or purchasable vendor, and is therefore excluded from commercial software pricing rankings).*
 ## Open-Source GitHub Projects
 
 
