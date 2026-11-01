@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Corporate-Philanthropy-Social-Impact/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Corporate-Philanthropy-Social-Impact?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Corporate-Philanthropy-Social-Impact/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Corporate-Philanthropy-Social-Impact?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Corporate-Philanthropy-Social-Impact/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Corporate-Philanthropy-Social-Impact?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Corporate-Philanthropy-Social-Impact/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Corporate-Philanthropy-Social-Impact?style=flat-square&color=success" alt="License"/></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -78,7 +78,7 @@ The table below benchmarks major commercial vendors handling workplace giving, m
 
 ## 💻 Open-Source GitHub Projects
 
-Below are open-source repositories designed for volunteer coordination, grant management, and civic CSR platforms. Repositories are sorted in **descending order by GitHub star count**. Each star badge links directly to the project's stargazers page.
+Below are open-source repositories designed for volunteer coordination, grant management, and civic CSR platforms. Repositories are sorted in **descending order by GitHub Stars_Count**. Each Stars_Badge links directly to the project's stargazers page.
 
 - **[rubyforgood/casa](https://github.com/rubyforgood/casa)** [![Stars](https://img.shields.io/github/stars/rubyforgood/casa?style=social&color=white)](https://github.com/rubyforgood/casa/stargazers) `MIT License`  
   **Volunteer management and child advocacy case tracking system** built in Ruby on Rails. Originally created for Court Appointed Special Advocates (CASA), this battle-tested platform manages volunteer onboarding, case assignments, court report generations, supervisor workflows, and volunteer hours auditing. Excellent production-grade architecture for large-scale volunteer workforce management.
@@ -117,7 +117,7 @@ Contributions are warmly encouraged! 🎉 Help keep this resource comprehensive,
 2. **Create a descriptive feature branch** (`git checkout -b add-impact-platform`) 🌿
 3. **Add or refine listings**:
    - For SaaS products, include verifiable starting price tiers, free trial details, and company valuation/revenue benchmarks.
-   - For open-source repos, include star counts, license details, and a clear architectural summary.
+   - For open-source repos, include Stars_Counts, license details, and a clear architectural summary.
 4. **Follow the formatting guidelines** and verify links.
 5. **Open a Pull Request** with a concise description of your additions! 🚀
 
